@@ -1,0 +1,19 @@
+{
+  "name": "mongodb-nodejs",
+  "version": "1.0.0",
+  "description": "Example of using MongoDB with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silviolanza/MongoDB-nodeJS.git"
+  },
+  "author": "Silvio Lanza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silviolanza/MongoDB-nodeJS/issues"
+  },
+  "homepage": "https://github.com/silviolanza/MongoDB-nodeJS#readme"
+}
